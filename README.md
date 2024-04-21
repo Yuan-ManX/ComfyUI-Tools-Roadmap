@@ -15,7 +15,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Te
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
-| [ComfyUI](https://github.com/comfyanonymous/ComfyUI)                                             | The most powerful and modular stable diffusion GUI and backend.                                                                                                                           | [ComfyUI](https://github.com/comfyanonymous/ComfyUI)              |         |
+| [ComfyUI](https://github.com/comfyanonymous/ComfyUI)                                           | The most powerful and modular stable diffusion GUI and backend.                                                         | [ComfyUI](https://github.com/comfyanonymous/ComfyUI)              |         |
 
 ## <span id="image">Image</span>
 
@@ -29,16 +29,12 @@ Here we will track the latest development tools for ComfyUI, including Image, Te
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 
 
-## <span id="model">Image</span>
+## <span id="model">3D Model</span>
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
+| [ComfyUI-Flowty-TripoSR](https://github.com/flowtyone/ComfyUI-Flowty-TripoSR)                  | The most powerful and modular stable diffusion GUI and backend.                                                         | [TripoSR](https://github.com/VAST-AI-Research/TripoSR)            |[arXiv](https://arxiv.org/abs/2403.02151)  |
 
-
-## <span id="image">3D Model</span>
-
-| ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
-| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 
 
 ## <span id="animation">Animation</span>
