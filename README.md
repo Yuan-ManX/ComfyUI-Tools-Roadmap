@@ -21,6 +21,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Te
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
+| [ComfyUI IPAdapter plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)                      | The IPAdapter are very powerful models for image-to-image conditioning.                                                 | [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter/)        |[arXiv](https://arxiv.org/abs/2308.06721)  |
 
 
 ## <span id="texture">Texture</span>
@@ -33,7 +34,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Te
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
-| [ComfyUI-Flowty-TripoSR](https://github.com/flowtyone/ComfyUI-Flowty-TripoSR)                  | The most powerful and modular stable diffusion GUI and backend.                                                         | [TripoSR](https://github.com/VAST-AI-Research/TripoSR)            |[arXiv](https://arxiv.org/abs/2403.02151)  |
+| [ComfyUI-Flowty-TripoSR](https://github.com/flowtyone/ComfyUI-Flowty-TripoSR)                  | TripoSR custom node for comfyui.                                                                                        | [TripoSR](https://github.com/VAST-AI-Research/TripoSR)            |[arXiv](https://arxiv.org/abs/2403.02151)  |
 
 
 
