@@ -16,6 +16,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Te
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI)                                           | The most powerful and modular stable diffusion GUI and backend.                                                         | [ComfyUI](https://github.com/comfyanonymous/ComfyUI)              |         |
+| [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)                                 | ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI.                                           | [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)    |         |
 
 ## <span id="image">Image</span>
 
