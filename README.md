@@ -63,6 +63,6 @@ Here we will track the latest development tools for ComfyUI, including Image, Te
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
-
-
+| [ComfyUI-AudioScheduler](https://github.com/a1lazydog/ComfyUI-AudioScheduler)                  | AudioScheduler project contains a collection of audio processing nodes.                                                                                                          |          |          |
+ 
 
