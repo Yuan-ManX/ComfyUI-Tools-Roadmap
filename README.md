@@ -25,6 +25,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Te
 | [ComfyUI IPAdapter plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)                      | The IPAdapter are very powerful models for image-to-image conditioning.                                                 | [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter/)        |[arXiv](https://arxiv.org/abs/2308.06721)  |
 | [ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse)                      | Transparent Image Layer Diffusion using Latent Transparency.                                                            | [LayerDiffuse](https://github.com/layerdiffusion/LayerDiffuse)    |         |
 | [ComfyUI-Marigold](https://github.com/kijai/ComfyUI-Marigold)                                  | Marigold depth estimation in ComfyUI.                                                                                   | [Marigold](https://github.com/prs-eth/Marigold)                   |[arXiv](https://arxiv.org/abs/2312.02145)  |
+| [ComfyUI OOTDiffusion](https://github.com/AuroBit/ComfyUI-OOTDiffusion)                        | Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on.                                               | [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)           |[arXiv](https://arxiv.org/abs/2403.01779)  |
 
 ## <span id="texture">Texture</span>
 
