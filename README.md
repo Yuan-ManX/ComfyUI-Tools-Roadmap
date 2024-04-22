@@ -26,6 +26,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Te
 | [ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse)                      | Transparent Image Layer Diffusion using Latent Transparency.                                                            | [LayerDiffuse](https://github.com/layerdiffusion/LayerDiffuse)    |         |
 | [ComfyUI-Marigold](https://github.com/kijai/ComfyUI-Marigold)                                  | Marigold depth estimation in ComfyUI.                                                                                   | [Marigold](https://github.com/prs-eth/Marigold)                   |[arXiv](https://arxiv.org/abs/2312.02145)  |
 | [ComfyUI OOTDiffusion](https://github.com/AuroBit/ComfyUI-OOTDiffusion)                        | Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on.                                               | [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)           |[arXiv](https://arxiv.org/abs/2403.01779)  |
+| [ComfyUI PhotoMaker Plus](https://github.com/shiimizu/ComfyUI-PhotoMaker-Plus)                 | Customizing Realistic Human Photos via Stacked ID Embedding.                                                            | [PhotoMaker](https://github.com/TencentARC/PhotoMaker)            |[arXiv](https://arxiv.org/abs/2312.04461)  |
 
 ## <span id="texture">Texture</span>
 
