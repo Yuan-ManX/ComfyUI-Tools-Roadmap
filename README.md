@@ -43,7 +43,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Te
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
-
+| [ComfyUI-AnimateDiff-Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved)      | Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning.                                       | [AnimateDiff](https://github.com/guoyww/AnimateDiff)              |[arXiv](https://arxiv.org/abs/2307.04725)  |
 
 
 ## <span id="avatar">Avatar</span>
