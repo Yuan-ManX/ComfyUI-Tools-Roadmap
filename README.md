@@ -30,7 +30,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Te
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
-
+| [Comfy Textures](https://github.com/AlexanderDzhoganov/ComfyTextures)                          | Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion models.                                                                                                          |          |          |
 
 ## <span id="model">3D Model</span>
 
