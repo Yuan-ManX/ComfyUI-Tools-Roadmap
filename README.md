@@ -56,6 +56,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [ComfyUI-AnimateDiff-Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved)      | Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning.                                       | [AnimateDiff](https://github.com/guoyww/AnimateDiff)              |[arXiv](https://arxiv.org/abs/2307.04725)  |
+| [ComfyUI-MagicAnimate](https://github.com/thecooltechguy/ComfyUI-MagicAnimate)                 | Easily use Magic Animate within ComfyUI!                                                                                                                                         |          |          |
 
 
 ## <span id="avatar">Avatar</span>
