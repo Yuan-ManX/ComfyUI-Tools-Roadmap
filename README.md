@@ -62,14 +62,14 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
-| [avatar-graph-comfyui](https://github.com/avatechai/avatar-graph-comfyui)                      | A custom nodes module for creating real-time interactive avatars powered by blender bpy mesh api + Avatech Shape Flow runtime.                                                           |          |         |
+| [avatar-graph-comfyui](https://github.com/avatechai/avatar-graph-comfyui)                      | A custom nodes module for creating real-time interactive avatars powered by blender bpy mesh api + Avatech Shape Flow runtime.                                                |          |         |
 
 
 ## <span id="video">Video</span>
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
-
+| [ComfyUI-SVD](https://github.com/kijai/ComfyUI-SVD)                                            | Experimental use of stable-video-diffusion in ComfyUI.                                                                                                                           |          |         |
 
 
 ## <span id="audio">Audio</span>
