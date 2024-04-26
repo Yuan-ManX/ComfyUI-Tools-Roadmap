@@ -56,6 +56,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Te
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
+| [avatar-graph-comfyui](https://github.com/avatechai/avatar-graph-comfyui)                      | A custom nodes module for creating real-time interactive avatars powered by blender bpy mesh api + Avatech Shape Flow runtime.                                                           |          |         |
 
 
 ## <span id="video">Video</span>
