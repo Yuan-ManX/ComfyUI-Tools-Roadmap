@@ -4,6 +4,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Te
 
 * [ComfyUI](#comfyui)
 * [Image](#image)
+* [Mesh](#mesh)
 * [Texture](#texture)
 * [3D Model](#model)
 * [Animation](#animation)
@@ -31,6 +32,12 @@ Here we will track the latest development tools for ComfyUI, including Image, Te
 | [ComfyUI PhotoMaker Plus](https://github.com/shiimizu/ComfyUI-PhotoMaker-Plus)                 | Customizing Realistic Human Photos via Stacked ID Embedding.                                                            | [PhotoMaker](https://github.com/TencentARC/PhotoMaker)            |[arXiv](https://arxiv.org/abs/2312.04461)  |
 | [ComfyUI StableZero123](https://github.com/deroberon/StableZero123-comfyui)                    | A Single Image to Consistent Multi-view Diffusion Base Model.                                                           | [Zero123++](https://github.com/SUDO-AI-3D/zero123plus)            |[arXiv](https://arxiv.org/abs/2310.15110)  |
 
+## <span id="mesh">Mesh</span>
+
+| ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
+| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
+| [ComfyUI InstantMesh](https://github.com/jtydhr88/ComfyUI-InstantMesh)                         | Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models.                      | [InstantMesh](https://github.com/TencentARC/InstantMesh)          |[arXiv](https://arxiv.org/abs/2404.07191)  |
+
 ## <span id="texture">Texture</span>
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
@@ -42,7 +49,6 @@ Here we will track the latest development tools for ComfyUI, including Image, Te
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [ComfyUI-Flowty-TripoSR](https://github.com/flowtyone/ComfyUI-Flowty-TripoSR)                  | TripoSR custom node for comfyui.                                                                                        | [TripoSR](https://github.com/VAST-AI-Research/TripoSR)            |[arXiv](https://arxiv.org/abs/2403.02151)  |
-
 
 
 ## <span id="animation">Animation</span>
