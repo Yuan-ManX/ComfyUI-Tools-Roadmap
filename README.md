@@ -1,6 +1,6 @@
 # ComfyUI Tools Roadmap 
 
-Here we will track the latest development tools for ComfyUI, including Image, Texture, 3D Model, Animation, Avatar, Video, Audio, and more!🔥
+Here we will track the latest development tools for ComfyUI, including Image, Mesh, Texture, 3D Model, Animation, Avatar, Video, Audio, and more!🔥
 
 * [ComfyUI](#comfyui)
 * [Image](#image)
