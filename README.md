@@ -1,4 +1,8 @@
-# ComfyUI Tools Roadmap 
+# ComfyUI Tools Roadmap 🎮
+
+<p align="center">
+  <img src="ComfyUI.png" alt="ComfyUI" style="display:block; margin:auto; width:700px;" />
+</p>
 
 Here we will track the latest development tools for ComfyUI, including Image, Mesh, Texture, 3D Model, Animation, Avatar, Video, Audio, and more!🔥
 
