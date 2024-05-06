@@ -69,7 +69,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [avatar-graph-comfyui](https://github.com/avatechai/avatar-graph-comfyui)                      | A custom nodes module for creating real-time interactive avatars powered by blender bpy mesh api + Avatech Shape Flow runtime.                                                |          |         |
-| [ComfyUI-IP_LAP](https://github.com/AIFSH/ComfyUI-IP_LAP)                                      | The comfyui custom node of IP_LAP to make audio driven videos!                                                              | [IP_LAP](https://github.com/Weizhi-Zhong/IP_LAP)              |         |
+| [ComfyUI-IP_LAP](https://github.com/AIFSH/ComfyUI-IP_LAP)                                      | The comfyui custom node of IP_LAP to make audio driven videos!                                                              | [IP_LAP](https://github.com/Weizhi-Zhong/IP_LAP)              |[arXiv](https://arxiv.org/abs/2305.08293)  |
 
 
 ## <span id="video">Video</span>
