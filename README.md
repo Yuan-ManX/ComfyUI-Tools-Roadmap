@@ -84,5 +84,6 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [ComfyUI-AudioScheduler](https://github.com/a1lazydog/ComfyUI-AudioScheduler)                  | AudioScheduler project contains a collection of audio processing nodes.                                                                                                          |          |          |
+| [ComfyUI-GPT_SoVITS](https://github.com/AIFSH/ComfyUI-GPT_SoVITS)                              | A Powerful Few-shot Voice Conversion and Text-to-Speech WebUI.                                                          | [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)              |          |
  
 
