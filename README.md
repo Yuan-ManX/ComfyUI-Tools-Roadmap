@@ -85,5 +85,6 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [ComfyUI-AudioScheduler](https://github.com/a1lazydog/ComfyUI-AudioScheduler)                  | AudioScheduler project contains a collection of audio processing nodes.                                                                                                          |          |          |
 | [ComfyUI-GPT_SoVITS](https://github.com/AIFSH/ComfyUI-GPT_SoVITS)                              | A Powerful Few-shot Voice Conversion and Text-to-Speech WebUI.                                                          | [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)              |          |
+| [ComfyUI-UVR5](https://github.com/AIFSH/ComfyUI-UVR5)                                          | The comfyui custom node for UVR5 to separate vocals and background music.                                               | [UVR5](https://github.com/Anjok07/ultimatevocalremovergui)              |          |
  
 
