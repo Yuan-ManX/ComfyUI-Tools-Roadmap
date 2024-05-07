@@ -81,6 +81,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [ComfyUI-DragNUWA](https://github.com/chaojie/ComfyUI-DragNUWA)                                | DragNUWA enables users to manipulate backgrounds or objects within images directly, and the model seamlessly translates these actions into camera movements or object motions, generating the corresponding video.  | [DragNUWA](https://github.com/ProjectNUWA/DragNUWA)   |      |
 | [ComfyUI-SVD](https://github.com/kijai/ComfyUI-SVD)                                            | Experimental use of stable-video-diffusion in ComfyUI.                                                                                                                           |          |         |
+| [ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite)            | Nodes related to video workflows.                                                                                                                                                |          |         |
 
 
 ## <span id="audio">Audio</span>
