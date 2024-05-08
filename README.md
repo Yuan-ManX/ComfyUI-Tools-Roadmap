@@ -4,7 +4,7 @@
   <img src="ComfyUI.png" alt="ComfyUI" style="display:block; margin:auto; width:650px;" />
 </p>
 
-Here we will track the latest development tools for ComfyUI, including Image, Mesh, Texture, 3D Model, Animation, Avatar, Video, Audio, and more!🔥
+Here we will track the latest development tools for ComfyUI, including Image, Mesh, Texture, 3D Model, Animation, Avatar, Video, Audio, Music and more!🔥
 
 * [ComfyUI](#comfyui)
 * [Image](#image)
@@ -15,6 +15,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 * [Avatar](#avatar)
 * [Video](#video)
 * [Audio](#audio)
+* [Music](#music)
 
 ## <span id="comfyui">ComfyUI</span>
 
@@ -93,4 +94,8 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | [ComfyUI-GPT_SoVITS](https://github.com/AIFSH/ComfyUI-GPT_SoVITS)                              | A Powerful Few-shot Voice Conversion and Text-to-Speech WebUI.                                                          | [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)              |          |
 | [ComfyUI-UVR5](https://github.com/AIFSH/ComfyUI-UVR5)                                          | The comfyui custom node for UVR5 to separate vocals and background music.                                               | [UVR5](https://github.com/Anjok07/ultimatevocalremovergui)              |          |
  
+## <span id="music">Music</span>
 
+| ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
+| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
+| [ComfyUI-AudioScheduler](https://github.com/a1lazydog/ComfyUI-AudioScheduler)                  | AudioScheduler project contains a collection of audio processing nodes.                                                                                                          |          |          |
