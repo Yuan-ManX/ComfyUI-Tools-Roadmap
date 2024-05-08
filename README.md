@@ -98,4 +98,5 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
-| [ComfyUI-AudioScheduler](https://github.com/a1lazydog/ComfyUI-AudioScheduler)                  | AudioScheduler project contains a collection of audio processing nodes.                                                                                                          |          |          |
+| [ComfyUI-SunoAI](https://github.com/GentlemanHu/ComfyUI-SunoAI)                                 | ComfyUI Node wrapper of SunoAI API.                                                                                                                                             |          |          |
+
