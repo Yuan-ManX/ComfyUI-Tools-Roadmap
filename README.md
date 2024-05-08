@@ -57,6 +57,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [ComfyUI-Flowty-TripoSR](https://github.com/flowtyone/ComfyUI-Flowty-TripoSR)                  | TripoSR custom node for comfyui.                                                                                        | [TripoSR](https://github.com/VAST-AI-Research/TripoSR)            |[arXiv](https://arxiv.org/abs/2403.02151)  |
+| [ComfyUI-Tripo](https://github.com/VAST-AI-Research/ComfyUI-Tripo)                             | TripoSR custom node for comfyui.                                                                                        | [TripoSR](https://github.com/VAST-AI-Research/TripoSR)            |[arXiv](https://arxiv.org/abs/2403.02151)  |
 
 
 ## <span id="animation">Animation</span>
