@@ -4,7 +4,7 @@
   <img src="ComfyUI.png" alt="ComfyUI" style="display:block; margin:auto; width:650px;" />
 </p>
 
-Here we will track the latest development tools for ComfyUI, including Image, Mesh, Texture, 3D Model, Animation, Avatar, Video, Audio, Music and more!🔥
+Here we will track the latest development tools for ComfyUI, including Image, Mesh, Texture, 3D Model, Animation, Video, Avatar, Audio, Music and more!🔥
 
 * [ComfyUI](#comfyui)
 * [Image](#image)
@@ -12,8 +12,8 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 * [Texture](#texture)
 * [3D Model](#model)
 * [Animation](#animation)
-* [Avatar](#avatar)
 * [Video](#video)
+* [Avatar](#avatar)
 * [Audio](#audio)
 * [Music](#music)
 
@@ -66,17 +66,9 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
+| [ComfyUI-ADMotionDirector](https://github.com/kijai/ComfyUI-ADMotionDirector)                  | ComfyUI nodes for training AnimateDiff motion loras.                                                                    | [AnimateDiff MotionDirector](https://github.com/ExponentialML/AnimateDiff-MotionDirector)              |          |
 | [ComfyUI-AnimateDiff-Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved)      | Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning.                                       | [AnimateDiff](https://github.com/guoyww/AnimateDiff)              |[arXiv](https://arxiv.org/abs/2307.04725)  |
 | [ComfyUI-MagicAnimate](https://github.com/thecooltechguy/ComfyUI-MagicAnimate)                 | Easily use Magic Animate within ComfyUI!                                                                                                                                         |          |          |
-
-
-## <span id="avatar">Avatar</span>
-
-| ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
-| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
-| [avatar-graph-comfyui](https://github.com/avatechai/avatar-graph-comfyui)                      | A custom nodes module for creating real-time interactive avatars powered by blender bpy mesh api + Avatech Shape Flow runtime.                                                |          |         |
-| [ComfyUI-IP_LAP](https://github.com/AIFSH/ComfyUI-IP_LAP)                                      | The comfyui custom node of IP_LAP to make audio driven videos!                                                              | [IP_LAP](https://github.com/Weizhi-Zhong/IP_LAP)              |[arXiv](https://arxiv.org/abs/2305.08293)  |
-
 
 ## <span id="video">Video</span>
 
@@ -86,6 +78,12 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | [ComfyUI-SVD](https://github.com/kijai/ComfyUI-SVD)                                            | Experimental use of stable-video-diffusion in ComfyUI.                                                                                                                           |          |         |
 | [ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite)            | Nodes related to video workflows.                                                                                                                                                |          |         |
 
+## <span id="avatar">Avatar</span>
+
+| ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
+| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
+| [avatar-graph-comfyui](https://github.com/avatechai/avatar-graph-comfyui)                      | A custom nodes module for creating real-time interactive avatars powered by blender bpy mesh api + Avatech Shape Flow runtime.                                                |          |         |
+| [ComfyUI-IP_LAP](https://github.com/AIFSH/ComfyUI-IP_LAP)                                      | The comfyui custom node of IP_LAP to make audio driven videos!                                                              | [IP_LAP](https://github.com/Weizhi-Zhong/IP_LAP)              |[arXiv](https://arxiv.org/abs/2305.08293)  |
 
 ## <span id="audio">Audio</span>
 
