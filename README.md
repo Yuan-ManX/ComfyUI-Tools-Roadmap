@@ -40,6 +40,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | [ComfyUI PhotoMaker Plus](https://github.com/shiimizu/ComfyUI-PhotoMaker-Plus)                 | Customizing Realistic Human Photos via Stacked ID Embedding.                                                            | [PhotoMaker](https://github.com/TencentARC/PhotoMaker)            |[arXiv](https://arxiv.org/abs/2312.04461)  |
 | [ComfyUI Segment Anything](https://github.com/storyicon/comfyui_segment_anything)              | Based on GroundingDino and SAM, use semantic strings to segment any element in an image.                                | [Segment Anything Model (SAM)](https://github.com/facebookresearch/segment-anything)         |[arXiv](https://arxiv.org/abs/2304.02643)  |
 | [ComfyUI StableZero123](https://github.com/deroberon/StableZero123-comfyui)                    | A Single Image to Consistent Multi-view Diffusion Base Model.                                                           | [Zero123++](https://github.com/SUDO-AI-3D/zero123plus)            |[arXiv](https://arxiv.org/abs/2310.15110)  |
+| [PuLID ComfyUI](https://github.com/cubiq/PuLID_ComfyUI)                                        | Pure and Lightning ID Customization via Contrastive Alignment.                                                          | [PuLID](https://github.com/ToTheBeginning/PuLID)                  |[arXiv](https://arxiv.org/abs/2404.16022)  |
 
 ## <span id="mesh">Mesh</span>
 
