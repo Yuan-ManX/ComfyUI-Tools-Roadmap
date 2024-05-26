@@ -92,6 +92,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | [ComfyUI-AniPortrait](https://github.com/chaojie/ComfyUI-AniPortrait)                          | Audio-Driven Synthesis of Photorealistic Portrait Animations.                                                               | [AniPortrait](https://github.com/Zejun-Yang/AniPortrait)      |[arXiv](https://arxiv.org/abs/2403.17694)  |
 | [ComfyUI-IP_LAP](https://github.com/AIFSH/ComfyUI-IP_LAP)                                      | The comfyui custom node of IP_LAP to make audio driven videos!                                                              | [IP_LAP](https://github.com/Weizhi-Zhong/IP_LAP)              |[arXiv](https://arxiv.org/abs/2305.08293)  |
 | [ComfyUI-MuseV](https://github.com/chaojie/ComfyUI-MuseV)                                      | Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising!               | [MuseV](https://github.com/TMElyralab/MuseV)                  |         |
+| [ComfyUI_wav2lip](https://github.com/ShmuelRonen/ComfyUI_wav2lip)                              | A custom node for ComfyUI that allows you to perform lip-syncing on videos using the Wav2Lip model. It takes an input video and an audio file and generates a lip-synced output video.             | [Wav2Lip](https://github.com/Rudrabha/Wav2Lip)              |[arXiv](https://arxiv.org/abs/2008.10010)  |
 
 ## <span id="audio">Audio</span>
 
