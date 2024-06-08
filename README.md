@@ -75,6 +75,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | [Comfyui-AnimateLCM](https://github.com/dezi-ai/ComfyUI-AnimateLCM)                            | Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning.         | [AnimateLCM](https://github.com/G-U-N/AnimateLCM)                 |[arXiv](https://arxiv.org/abs/2402.00769)  |
 | [ComfyUI-DynamiCrafter](https://github.com/chaojie/ComfyUI-DynamiCrafter)                      |  Animating Open-domain Images with Video Diffusion Priors.                                                              | [DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter)         |[arXiv](https://arxiv.org/abs/2310.12190)  |
 | [ComfyUI-MagicAnimate](https://github.com/thecooltechguy/ComfyUI-MagicAnimate)                 | Easily use Magic Animate within ComfyUI!                                                                                                                                         |          |          |
+| [ComfyUI-ToonCrafter](https://github.com/AIGODLIKE/ComfyUI-ToonCrafter)                        |  Generative Cartoon Interpolation.                                                                                      | [ToonCrafter](https://github.com/ToonCrafter/ToonCrafter)         |          |
 
 ## <span id="video">Video</span>
 
