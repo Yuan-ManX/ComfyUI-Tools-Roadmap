@@ -27,6 +27,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | [Comfy.ICU](https://github.com/pagebrain/comfyicu)                                           | ComfyICU - Run ComfyUI workflows in the Cloud.                                                                            | [Comfy.ICU](https://github.com/pagebrain/comfyicu)              |         |
 | [ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)              | Enhancements & experiments for ComfyUI, mostly focusing on UI features.                                                 | [ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)       |         |
 | [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)                                 | ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI.                                           | [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)    |         |
+| [ComfyUI_TensorRT](https://github.com/comfyanonymous/ComfyUI_TensorRT)                         | This node enables the best performance on NVIDIA RTX™ Graphics Cards  (GPUs) for Stable Diffusion by leveraging NVIDIA TensorRT.           | [ComfyUI_TensorRT](https://github.com/comfyanonymous/ComfyUI_TensorRT)    |         |
 
 ## <span id="image">Image</span>
 
