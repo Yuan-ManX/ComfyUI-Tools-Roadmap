@@ -9,7 +9,6 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 ## Table of Contents
 
 * [ComfyUI](#comfyui)
-* [ComfyUI Workflow](#workflow)
 * [Image](#image)
 * [Mesh](#mesh)
 * [Texture](#texture)
@@ -19,6 +18,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 * [Avatar](#avatar)
 * [Audio](#audio)
 * [Music](#music)
+* [ComfyUI Workflow](#workflow)
 
 
 ## Project List
@@ -34,14 +34,6 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | [ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)              | Enhancements & experiments for ComfyUI, mostly focusing on UI features.                                                 | [ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)       |         |
 | [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)                                 | ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI.                                           | [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)    |         |
 | [ComfyUI_TensorRT](https://github.com/comfyanonymous/ComfyUI_TensorRT)                         | This node enables the best performance on NVIDIA RTX™ Graphics Cards  (GPUs) for Stable Diffusion by leveraging NVIDIA TensorRT.           | [ComfyUI_TensorRT](https://github.com/comfyanonymous/ComfyUI_TensorRT)    |         |
-
-<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
-
-
-### <span id="workflow">ComfyUI Workflow</span>
-
-| ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
-| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
@@ -159,6 +151,14 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [ComfyUI-SunoAI](https://github.com/GentlemanHu/ComfyUI-SunoAI)                                 | ComfyUI Node wrapper of SunoAI API.                                                                                                                                             |          |          |
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="workflow">ComfyUI Workflow</span>
+
+| ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
+| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
