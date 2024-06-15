@@ -6,6 +6,8 @@
 
 Here we will track the latest development tools for ComfyUI, including Image, Mesh, Texture, 3D Model, Animation, Video, Avatar, Audio, Music and more!🔥
 
+## Table of Contents
+
 * [ComfyUI](#comfyui)
 * [Image](#image)
 * [Mesh](#mesh)
@@ -17,7 +19,10 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 * [Audio](#audio)
 * [Music](#music)
 
-## <span id="comfyui">ComfyUI</span>
+
+## Project List
+
+### <span id="comfyui">ComfyUI</span>
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -29,7 +34,10 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)                                 | ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI.                                           | [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)    |         |
 | [ComfyUI_TensorRT](https://github.com/comfyanonymous/ComfyUI_TensorRT)                         | This node enables the best performance on NVIDIA RTX™ Graphics Cards  (GPUs) for Stable Diffusion by leveraging NVIDIA TensorRT.           | [ComfyUI_TensorRT](https://github.com/comfyanonymous/ComfyUI_TensorRT)    |         |
 
-## <span id="image">Image</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="image">Image</span>
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -49,19 +57,28 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | [ComfyUI_UltimateSDUpscale](https://github.com/ssitu/ComfyUI_UltimateSDUpscale)                | ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.                                             | [Ultimate SD Upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)            |         |
 | [PuLID ComfyUI](https://github.com/cubiq/PuLID_ComfyUI)                                        | Pure and Lightning ID Customization via Contrastive Alignment.                                                          | [PuLID](https://github.com/ToTheBeginning/PuLID)                  |[arXiv](https://arxiv.org/abs/2404.16022)  |
 
-## <span id="mesh">Mesh</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="mesh">Mesh</span>
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [ComfyUI InstantMesh](https://github.com/jtydhr88/ComfyUI-InstantMesh)                         | Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models.                      | [InstantMesh](https://github.com/TencentARC/InstantMesh)          |[arXiv](https://arxiv.org/abs/2404.07191)  |
 
-## <span id="texture">Texture</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="texture">Texture</span>
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [Comfy Textures](https://github.com/AlexanderDzhoganov/ComfyTextures)                          | Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion models.                                                                                                          |          |          |
 
-## <span id="model">3D Model</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="model">3D Model</span>
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -69,7 +86,10 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | [ComfyUI-Tripo](https://github.com/VAST-AI-Research/ComfyUI-Tripo)                             | This extension integrates Tripo into ComfyUI, allowing users to generate 3D models from text prompts or images directly within the ComfyUI interface.        | [TripoSR](https://github.com/VAST-AI-Research/TripoSR)            |[arXiv](https://arxiv.org/abs/2403.02151)  |
 
 
-## <span id="animation">Animation</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="animation">Animation</span>
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -81,7 +101,10 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | [ComfyUI-MagicAnimate](https://github.com/thecooltechguy/ComfyUI-MagicAnimate)                 | Easily use Magic Animate within ComfyUI!                                                                                                                                         |          |          |
 | [ComfyUI-ToonCrafter](https://github.com/AIGODLIKE/ComfyUI-ToonCrafter)                        |  Generative Cartoon Interpolation.                                                                                      | [ToonCrafter](https://github.com/ToonCrafter/ToonCrafter)         |          |
 
-## <span id="video">Video</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="video">Video</span>
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -89,7 +112,10 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | [ComfyUI-SVD](https://github.com/kijai/ComfyUI-SVD)                                            | Experimental use of stable-video-diffusion in ComfyUI.                                                                                                                           |          |         |
 | [ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite)            | Nodes related to video workflows.                                                                                                                                                |          |         |
 
-## <span id="avatar">Avatar</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="avatar">Avatar</span>
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -102,7 +128,10 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | [ComfyUI-V-Express](https://github.com/tiankuan93/ComfyUI-V-Express)                         | Conditional Dropout for Progressive Training of Portrait Video Generation.             | [V-Express](https://github.com/tencent-ailab/V-Express)              |[arXiv](https://arxiv.org/abs/2406.02511)  |
 | [ComfyUI_wav2lip](https://github.com/ShmuelRonen/ComfyUI_wav2lip)                              | A custom node for ComfyUI that allows you to perform lip-syncing on videos using the Wav2Lip model. It takes an input video and an audio file and generates a lip-synced output video.             | [Wav2Lip](https://github.com/Rudrabha/Wav2Lip)              |[arXiv](https://arxiv.org/abs/2008.10010)  |
 
-## <span id="audio">Audio</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="audio">Audio</span>
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
@@ -112,10 +141,15 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | [ComfyUI_ParlerTTS](https://github.com/smthemex/ComfyUI_ParlerTTS)                              | Parler-TTS is a lightweight text-to-speech (TTS) model that can generate high-quality, natural sounding speech in the style of a given speaker (gender, pitch, speaking style, etc).    | [Parler-TTS](https://github.com/huggingface/parler-tts)             |          |
 | [ComfyUI-StableAudioSampler](https://github.com/lks-ai/ComfyUI-StableAudioSampler)              | The New Stable Diffusion Audio Sampler 1.0 In a ComfyUI Node. Make some beats!                                               |         |          |
 | [ComfyUI-UVR5](https://github.com/AIFSH/ComfyUI-UVR5)                                          | The comfyui custom node for UVR5 to separate vocals and background music.                                               | [UVR5](https://github.com/Anjok07/ultimatevocalremovergui)        |          |
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
  
-## <span id="music">Music</span>
+### <span id="music">Music</span>
 
 | ComfyUI                                                                                      | Description                                                                                                                                                                                    |   Source   |   Paper   |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-------: |
 | [ComfyUI-SunoAI](https://github.com/GentlemanHu/ComfyUI-SunoAI)                                 | ComfyUI Node wrapper of SunoAI API.                                                                                                                                             |          |          |
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
