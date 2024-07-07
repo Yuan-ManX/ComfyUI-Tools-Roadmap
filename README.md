@@ -148,6 +148,7 @@ Here we will track the latest development tools for ComfyUI, including Image, Me
 | [ComfyUI_ParlerTTS](https://github.com/smthemex/ComfyUI_ParlerTTS)                              | Parler-TTS is a lightweight text-to-speech (TTS) model that can generate high-quality, natural sounding speech in the style of a given speaker (gender, pitch, speaking style, etc).    | [Parler-TTS](https://github.com/huggingface/parler-tts)             |          |
 | [ComfyUI-StableAudioSampler](https://github.com/lks-ai/ComfyUI-StableAudioSampler)              | The New Stable Diffusion Audio Sampler 1.0 In a ComfyUI Node. Make some beats!                                               |         |          |
 | [ComfyUI-UVR5](https://github.com/AIFSH/ComfyUI-UVR5)                                          | The comfyui custom node for UVR5 to separate vocals and background music.                                               | [UVR5](https://github.com/Anjok07/ultimatevocalremovergui)        |          |
+| [ComfyUI-XTTS](https://github.com/AIFSH/ComfyUI-XTTS)                                          | a custom comfyui node for coqui-ai/TTS's xtts module! support 17 languages voice cloning and tts.                                               | [XTTS](https://github.com/coqui-ai/TTS)        |          |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
